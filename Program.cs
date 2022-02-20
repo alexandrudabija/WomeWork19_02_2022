@@ -13,8 +13,15 @@ namespace tema_19_02_2022
 
 
 
-            //1
-            /*     int    a ;
+           
+
+
+
+
+
+
+
+              int    a ;
 
                  String aS;
 
